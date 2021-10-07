@@ -24,4 +24,6 @@ Module yang diperlukan :
 - setelah tadi kita melakukan yang namanya penyimpanan data sekarang kita tinggal menekan tombol **ambil gambar** 
 habis itu kalian sistem akan langsung menyimpan data dari nama kita 
 
+**jika di minta pasword kita harus mengset password terlebih dahulu**
+
 ## Terima kasih !!
