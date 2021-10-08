@@ -1,4 +1,6 @@
-In this system we need a haarscade algorithm so that the code can run well
+## A system that can perform attendance using facial scanning
+
+> A system that can perform attendance using facial scanning In this system we need a haarscade algorithm so that the code can run properly, so that's more or less how to use it
 
 Required modules:
 
