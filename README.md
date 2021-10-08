@@ -1,5 +1,6 @@
-## absen-pengenalan-wajah
-Pada sistem ini kita memerlukan haarscade algorithm agar code bisa berjalan dengan baik  dan benar jadi seperti itu kurang lebih cara penggunaaan
+### Sistem yang dapat melakukan absensi menggunakan pemindaian wajah
+
+> Pada sistem ini kita memerlukan haarscade algorithm agar code bisa berjalan dengan baik  dan benar jadi seperti itu kurang lebih cara penggunaaan
 
 Module yang diperlukan :
 
