@@ -3,14 +3,13 @@
 
 必要なモジュール：
 
--Tkinter
--パンダ
--Numpy
--OpenCV
+- Tkinter
+- Pandas
+- Numpy
+- OpenCV
 
 ##このシステムの使用方法
-！[画像]（https://user-images.githubusercontent.com/56282493/136215217-a4fa8ed8-85ec-4c4e-bad4-27a97bf47e29.png）
- そのため、最初に入力する名前を登録する必要があります。これにより、**データが保存され、テスト中に失われることもありません**。
+![image](https://user-images.githubusercontent.com/56282493/136215217-a4fa8ed8-85ec-4c4e-bad4-27a97bf47e29.png)
 
 -IDと名前を入力する必要があります
 > IDについては、ランダムに、または登録されている内容に従って入力できます
